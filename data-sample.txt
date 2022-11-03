@@ -1,0 +1,40 @@
+mealType 
+    content:"Start your day with exclusive breakfast options"
+    image:"assets/breakfast.png"
+    meal_type: 1
+    name:"Breakfast"
+    _id: "62f8d5eb2fa45e6bf92a0830"
+
+
+location
+    city:"Delhi"
+    city_id: 1
+    country_name: "India"
+    location_id: 1
+    name: "Shalimar Bagh"
+    _id: "62f8c59e2fa45e6bf92a0825"
+
+filter 
+    city: "Delhi"
+    cuisine: [{name:"North Indian"},{name:"North Indian"},{name:"North Indian"}]
+    locality: "Shalimar Bagh"
+    min_price: 666
+    name:"Domino's"
+    _id: "62f789d68e7a9802ecbc605e"
+
+
+aggregate_rating:0,
+city:""
+city_id:-1,
+contact_number:0,
+cuisine:[],
+cuisine_id:[],
+image:"",
+locality:"",
+location_id:-1,
+mealtype_id:-1
+min_price:0
+name:"",
+rating_text:"",
+thumb: [],
+_id:-1
